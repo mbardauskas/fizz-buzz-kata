@@ -5,7 +5,7 @@ Exercise on generalisation and abstraction
 ## How to start
 
 ```
-git clone https://github.com/sarunas/fizz-buzz-kata
+git clone https://github.com/mbardauskas/fizz-buzz-kata
 cd fizz-buzz-kata
 npm install
 npm run watch
